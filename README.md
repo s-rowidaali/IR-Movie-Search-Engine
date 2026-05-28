@@ -63,17 +63,17 @@ This project implements a full search engine pipeline including:
 ## 🖼️ Screenshots
 
 ### 🏠 Home Interface
-![Home](IR_Images/Home.png)
+![Home](Home.png)
 
 ---
 
 ### 🔍 Search Results
-![Search Results](IR_Images/search_results.png)
+![Search Results](search_results.png)
 
 ---
 
 ### 📊 Analytics Dashboard
-![Analytics](IR_Images/analytics_IR.png)
+![Analytics](analytics_IR.png)
 
 ---
 
